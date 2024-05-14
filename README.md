@@ -1,9 +1,9 @@
-Learn Linear Algebra hands-on with Sage
-=======================================
+Learn Linear Algebra hands-on with SageMath
+===========================================
 
 Overview
 --------
-Coming soon ...
+Coming soon ... learn linear algebra in a hands-on way using SageMath.
 
 Instructions
 ------------
