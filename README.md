@@ -23,4 +23,5 @@ Chris Snow
 Resources
 ---------
 - [NPTEL Video Course : NOC:Computational Mathematics with SageMath](http://acl.digimat.in/nptel/courses/video/111106149/L01.html)
-- [3Blue1Brown : Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB)
+- [3Blue1Brown : Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB)]
+- [SageMath Guided Tour : Linear Algebra](https://doc.sagemath.org/html/en/tutorial/tour_linalg.html)
