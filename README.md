@@ -10,9 +10,11 @@ Instructions
 
 To run the notebooks, you can click on the link below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snowch/learn_linear_algebra/master?labpath=00-start-here.ipynb) _(this may take 5 or more minutes to start)_
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snowch/learn_linear_algebra/master?labpath=00-start-here.ipynb) <-- this may take 5 or more minutes to start
 
-To view the notebooks, you can start [here](./notebooks/00-start-here.ipynb)
+Note that any thing you add when runnning notebooks is not persisted.
+
+To just view the notebooks, you can start [here](./notebooks/00-start-here.ipynb)
 
 
 
