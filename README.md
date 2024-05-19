@@ -14,7 +14,7 @@ To run the notebooks, you can click on the link below:
 
 Note that anything you add when runnning notebooks is not persisted and the notebook environment has an inactivity timeout of 10 mins.
 
-To just view the notebooks, you can start [here](./notebooks/00-start-here.ipynb)
+To just view the notebooks, you can start [here](https://nbviewer.org/github/snowch/learn_linear_algebra/tree/master/notebooks/)
 
 
 
